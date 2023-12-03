@@ -1,0 +1,3 @@
+<html>
+@livewire('datatable')
+</html>
